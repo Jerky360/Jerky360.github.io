@@ -1,0 +1,21 @@
+i{
+color: darkblue;
+font-size: 30px;
+}
+
+#navmenu {
+width:250px;
+height:30px;
+margin:auto;
+ } 
+
+.navitem { 
+list-style-type:none;
+display:inline;
+padding-right:1.5em; 
+}
+
+
+
+
+ 
